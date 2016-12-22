@@ -9,7 +9,7 @@ name: José Luis Sáez Lozano
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
-![Mi foto](josaez/cv1/Jose Luis Saez Lozano 3.jpg)
+avatar: https://raw.githubusercontent.com/josaez/cv1/master/Images/Jose Luis Saez Lozano 3.jpg
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
